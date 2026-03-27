@@ -21,8 +21,8 @@ This Python project checks the weather for customer orders and flags potential d
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<Sukanya-Soppihiremath>/<WeatherOrderAssignment>.git
-   cd <WeatherOrderAssignment>
+   git clone https://github.com/Sukanya-Soppihiremath/WeatherOrderAssignment.git
+   cd WeatherOrderAssignment
 2. **Install Dependencies**
 pip install aiohttp python-dotenv
 3. **Add your API key**
